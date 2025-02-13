@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "I can't wait to see you in person soon and I miss oyu",
         message: "Virtual flowers for now real ones soon",
-        emojis: "💐💐💐💐💐💐💐"  // These will bounce around
+        emojis: "💐💐💐💐💐💐"  // These will bounce around
     },
 
     // Color scheme for the website
