@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "You love me you love me 🎵🎵🎵",  // Shows when they go past 5000%
+        extreme: "You love me, you love me 🎵🎵🎵",  // Shows when they go past 5000%
         high: "3005 🚀💝",              // Shows when they go past 1000%
         normal: "Until 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I can't wait to see you in person soon and I miss oyu",
-        message: "Virtual flowers for now real ones soon",
+        title: "Virtual flowers for now real ones soon",
+        message: "I can't wait to see you in person soon and I miss you everday",
         emojis: "💐💐💐💐💐💐"  // These will bounce around
     },
 
